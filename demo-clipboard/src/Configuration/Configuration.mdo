@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="b9efe43c-28fa-43c4-b699-faacfed51277">
+  <name>ДемоБуферОбмена</name>
+  <synonym>
+    <key>ru</key>
+    <value>Демо буфер обмена</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="044daf7f-cf2f-463e-b850-bffab5a6eecc"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="51120c6e-9425-4eac-ac75-3117667d4f17"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="962b06b5-66e8-4da1-aef6-58bbfc0d9f12"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="fc90c83b-e741-45b2-9645-20fd8680697b"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="818d4792-ac29-472f-b20e-70599d3a5641"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="61fac56b-b0e4-40e5-948f-d0e593716b1c"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="7f831e89-e1ea-479a-962d-6a70248be286"/>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.24</compatibilityMode>
+  <languages uuid="5737edc7-4422-4be1-bc0b-202622eaab58">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <dataProcessors>DataProcessor.ОбработкаВставкиВПриложение</dataProcessors>
+  <dataProcessors>DataProcessor.ПримерыИспользования</dataProcessors>
+</mdclass:Configuration>
